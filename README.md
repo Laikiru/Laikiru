@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Laikiru! My name is Jackie but feel free to refer to me as Laiki or Laika as well haha
 - 👀 I’m interested in game development and AI development, as well as working on the hardware side of projects.
-- 🌱 I’m currently learning Python and Java for programming languages.
+- 🌱 I’m currently learning Python for programming languages.
 - 📫 How to reach me! 
   > @laika_laiki on Twitter  /   jackiiisantos@gmail.com
 
 
-Beyond that, I'm currently a student at CSULB. I enjoy skateboarding, watching anime, making art, and playing video games! I'd love to try and put my creative endeavors into something that other people can enjoy and use, hence why I want to learn programming.
+Beyond that, I'm currently a student at CSULB majoring in Creative Writing. I enjoy skateboarding, watching anime, making art, and playing video games! I'd love to try and put my creative endeavors into something that other people can enjoy and use, hence why I want to learn programming.
 Also just because it's pretty cool.
 
 <!---
